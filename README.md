@@ -1,2 +1,0 @@
-# selly-jamet
-web
